@@ -1,102 +1,102 @@
 Smart Shelf Finder - 100 Available Library Items
 
-1. Arabic Chef Recipes (Book) - Shelf 1, Level 1, Position 1
-2. Public Administration Journal (Journal) - Shelf 1, Level 1, Position 2
-3. مجلة الإدارة العامة (Magazine) - Shelf 1, Level 1, Position 3
-4. Introduction to AI (Book) - Shelf 1, Level 1, Position 4
-5. Database Design Made Easy (Book) - Shelf 1, Level 1, Position 5
-6. Library Cataloging Basics (Book) - Shelf 1, Level 2, Position 1
-7. Cooking Life Magazine (Magazine) - Shelf 1, Level 2, Position 2
-8. AI Research Bulletin (Journal) - Shelf 1, Level 2, Position 3
-9. Children Stories Collection (Book) - Shelf 1, Level 2, Position 4
-10. Smart Librarian Guide (Book) - Shelf 1, Level 2, Position 5
-11. Modern Archives Handbook (Book) - Shelf 1, Level 3, Position 1
-12. مجلة الطبخ العربي (Magazine) - Shelf 1, Level 3, Position 2
-13. Urban Planning Review (Journal) - Shelf 1, Level 3, Position 3
-14. Digital Learning Today (Magazine) - Shelf 1, Level 3, Position 4
-15. Basics of Data Science (Book) - Shelf 1, Level 3, Position 5
-16. تعلم البرمجة للأطفال (Book) - Shelf 1, Level 4, Position 1
-17. Museum Studies Quarterly (Journal) - Shelf 1, Level 4, Position 2
-18. Healthy Home Magazine (Magazine) - Shelf 1, Level 4, Position 3
-19. World History Notes (Book) - Shelf 1, Level 4, Position 4
-20. Arabic Poetry Selections (Book) - Shelf 1, Level 4, Position 5
-21. مجلة العلوم الحديثة (Magazine) - Shelf 2, Level 1, Position 1
-22. Applied Mathematics Journal (Journal) - Shelf 2, Level 1, Position 2
-23. Beginner Robotics (Book) - Shelf 2, Level 1, Position 3
-24. Travel Notes Arabia (Magazine) - Shelf 2, Level 1, Position 4
-25. Foundations of Economics (Book) - Shelf 2, Level 1, Position 5
-26. مجلة المكتبات العربية (Journal) - Shelf 2, Level 2, Position 1
-27. Creative Writing Workshop (Book) - Shelf 2, Level 2, Position 2
-28. Architecture Monthly (Magazine) - Shelf 2, Level 2, Position 3
-29. Cybersecurity Practice (Book) - Shelf 2, Level 2, Position 4
-30. Information Systems Review (Journal) - Shelf 2, Level 2, Position 5
-31. فن إدارة الوقت (Book) - Shelf 2, Level 3, Position 1
-32. Education Policy Journal (Journal) - Shelf 2, Level 3, Position 2
-33. Garden Life Magazine (Magazine) - Shelf 2, Level 3, Position 3
-34. Cloud Computing Primer (Book) - Shelf 2, Level 3, Position 4
-35. Statistics for Managers (Book) - Shelf 2, Level 3, Position 5
-36. مجلة الأطفال والقراءة (Magazine) - Shelf 2, Level 4, Position 1
-37. Renewable Energy Journal (Journal) - Shelf 2, Level 4, Position 2
-38. Classic Drama Collection (Book) - Shelf 2, Level 4, Position 3
-39. City Culture Magazine (Magazine) - Shelf 2, Level 4, Position 4
-40. Practical Project Management (Book) - Shelf 2, Level 4, Position 5
-41. Arabic Grammar Essentials (Book) - Shelf 3, Level 1, Position 1
-42. مجلة التقنية اليومية (Magazine) - Shelf 3, Level 1, Position 2
-43. Healthcare Systems Journal (Journal) - Shelf 3, Level 1, Position 3
-44. Marine Biology Notes (Book) - Shelf 3, Level 1, Position 4
-45. Food Science Review (Journal) - Shelf 3, Level 1, Position 5
-46. Desert Travel Guide (Book) - Shelf 3, Level 2, Position 1
-47. مجلة التراث العربي (Magazine) - Shelf 3, Level 2, Position 2
-48. Language Teaching Journal (Journal) - Shelf 3, Level 2, Position 3
-49. Small Business Accounting (Book) - Shelf 3, Level 2, Position 4
-50. Home Design Magazine (Magazine) - Shelf 3, Level 2, Position 5
-51. Machine Learning Notes (Book) - Shelf 3, Level 3, Position 1
-52. مجلة الصحة والأسرة (Magazine) - Shelf 3, Level 3, Position 2
-53. Sociology Research Journal (Journal) - Shelf 3, Level 3, Position 3
-54. Beginner Spanish Reader (Book) - Shelf 3, Level 3, Position 4
-55. Photography Monthly (Magazine) - Shelf 3, Level 3, Position 5
-56. مبادئ علم النفس (Book) - Shelf 3, Level 4, Position 1
-57. Legal Studies Journal (Journal) - Shelf 3, Level 4, Position 2
-58. Sports Life Magazine (Magazine) - Shelf 3, Level 4, Position 3
-59. Ethics in Technology (Book) - Shelf 3, Level 4, Position 4
-60. Modern Finance Basics (Book) - Shelf 3, Level 4, Position 5
-61. مجلة الفنون الجميلة (Magazine) - Shelf 4, Level 1, Position 1
-62. Environmental Policy Journal (Journal) - Shelf 4, Level 1, Position 2
-63. Astronomy for Beginners (Book) - Shelf 4, Level 1, Position 3
-64. Public Health Review (Journal) - Shelf 4, Level 1, Position 4
-65. Weekend Cooking Magazine (Magazine) - Shelf 4, Level 1, Position 5
-66. القصص الشعبية العربية (Book) - Shelf 4, Level 2, Position 1
-67. Operations Management Journal (Journal) - Shelf 4, Level 2, Position 2
-68. Craft Ideas Magazine (Magazine) - Shelf 4, Level 2, Position 3
-69. Network Administration Guide (Book) - Shelf 4, Level 2, Position 4
-70. Comparative Literature Journal (Journal) - Shelf 4, Level 2, Position 5
-71. Local History of Libraries (Book) - Shelf 4, Level 3, Position 1
-72. مجلة رواد الأعمال (Magazine) - Shelf 4, Level 3, Position 2
-73. Political Science Review (Journal) - Shelf 4, Level 3, Position 3
-74. Practical Web Design (Book) - Shelf 4, Level 3, Position 4
-75. Science Classroom Magazine (Magazine) - Shelf 4, Level 3, Position 5
-76. أساسيات قواعد البيانات (Book) - Shelf 4, Level 4, Position 1
-77. Digital Preservation Journal (Journal) - Shelf 4, Level 4, Position 2
-78. Family Reading Magazine (Magazine) - Shelf 4, Level 4, Position 3
-79. Office Productivity Tips (Book) - Shelf 4, Level 4, Position 4
-80. Library Services Review (Journal) - Shelf 4, Level 4, Position 5
-81. مجلة الذكاء الاصطناعي (Magazine) - Shelf 5, Level 1, Position 1
-82. Data Governance Journal (Journal) - Shelf 5, Level 1, Position 2
-83. Creative Cooking Basics (Book) - Shelf 5, Level 1, Position 3
-84. Teaching With Technology (Book) - Shelf 5, Level 1, Position 4
-85. Cultural Heritage Review (Journal) - Shelf 5, Level 1, Position 5
-86. مجلة السفر والسياحة (Magazine) - Shelf 5, Level 2, Position 1
-87. Introductory Chemistry (Book) - Shelf 5, Level 2, Position 2
-88. Library Automation Journal (Journal) - Shelf 5, Level 2, Position 3
-89. Personal Finance Magazine (Magazine) - Shelf 5, Level 2, Position 4
-90. Effective Communication Skills (Book) - Shelf 5, Level 2, Position 5
-91. تعلم الإنجليزية بسهولة (Book) - Shelf 5, Level 3, Position 1
-92. Journal of Smart Libraries (Journal) - Shelf 5, Level 3, Position 2
-93. Reader Life Magazine (Magazine) - Shelf 5, Level 3, Position 3
-94. Introduction to Philosophy (Book) - Shelf 5, Level 3, Position 4
-95. Artificial Intelligence Ethics Journal (Journal) - Shelf 5, Level 3, Position 5
-96. مجلة القراءة الذكية (Magazine) - Shelf 5, Level 4, Position 1
-97. Beginner Data Visualization (Book) - Shelf 5, Level 4, Position 2
-98. Journal of Public Libraries (Journal) - Shelf 5, Level 4, Position 3
-99. Modern Reading Habits (Book) - Shelf 5, Level 4, Position 4
-100. Library Innovation Magazine (Magazine) - Shelf 5, Level 4, Position 5
+1. Arabic Chef Recipes (Book) - ISBN 9781-0791 - Shelf 1, Level 1, Position 1
+2. Public Administration Journal (Journal) - ISSN 1000-0002 - Shelf 1, Level 1, Position 2
+3. مجلة الإدارة العامة (Magazine) - ISSN 1000-0003 - Shelf 1, Level 1, Position 3
+4. Introduction to AI (Book) - ISBN 9781-0792 - Shelf 1, Level 1, Position 4
+5. Database Design Made Easy (Book) - ISBN 9781-0793 - Shelf 1, Level 1, Position 5
+6. Library Cataloging Basics (Book) - ISBN 9781-0794 - Shelf 1, Level 2, Position 1
+7. Cooking Life Magazine (Magazine) - ISSN 1000-0007 - Shelf 1, Level 2, Position 2
+8. AI Research Bulletin (Journal) - ISSN 1000-0008 - Shelf 1, Level 2, Position 3
+9. Children Stories Collection (Book) - ISBN 9781-0795 - Shelf 1, Level 2, Position 4
+10. Smart Librarian Guide (Book) - ISBN 9781-0796 - Shelf 1, Level 2, Position 5
+11. Modern Archives Handbook (Book) - ISBN 9781-0797 - Shelf 1, Level 3, Position 1
+12. مجلة الطبخ العربي (Magazine) - ISSN 1000-0012 - Shelf 1, Level 3, Position 2
+13. Urban Planning Review (Journal) - ISSN 1000-0013 - Shelf 1, Level 3, Position 3
+14. Digital Learning Today (Magazine) - ISSN 1000-0014 - Shelf 1, Level 3, Position 4
+15. Basics of Data Science (Book) - ISBN 9781-0798 - Shelf 1, Level 3, Position 5
+16. تعلم البرمجة للأطفال (Book) - ISBN 9781-0799 - Shelf 1, Level 4, Position 1
+17. Museum Studies Quarterly (Journal) - ISSN 1000-0017 - Shelf 1, Level 4, Position 2
+18. Healthy Home Magazine (Magazine) - ISSN 1000-0018 - Shelf 1, Level 4, Position 3
+19. World History Notes (Book) - ISBN 9781-0800 - Shelf 1, Level 4, Position 4
+20. Arabic Poetry Selections (Book) - ISBN 9781-0801 - Shelf 1, Level 4, Position 5
+21. مجلة العلوم الحديثة (Magazine) - ISSN 1000-0021 - Shelf 2, Level 1, Position 1
+22. Applied Mathematics Journal (Journal) - ISSN 1000-0022 - Shelf 2, Level 1, Position 2
+23. Beginner Robotics (Book) - ISBN 9781-0802 - Shelf 2, Level 1, Position 3
+24. Travel Notes Arabia (Magazine) - ISSN 1000-0024 - Shelf 2, Level 1, Position 4
+25. Foundations of Economics (Book) - ISBN 9781-0803 - Shelf 2, Level 1, Position 5
+26. مجلة المكتبات العربية (Journal) - ISSN 1000-0026 - Shelf 2, Level 2, Position 1
+27. Creative Writing Workshop (Book) - ISBN 9781-0804 - Shelf 2, Level 2, Position 2
+28. Architecture Monthly (Magazine) - ISSN 1000-0028 - Shelf 2, Level 2, Position 3
+29. Cybersecurity Practice (Book) - ISBN 9781-0805 - Shelf 2, Level 2, Position 4
+30. Information Systems Review (Journal) - ISSN 1000-0030 - Shelf 2, Level 2, Position 5
+31. فن إدارة الوقت (Book) - ISBN 9781-0806 - Shelf 2, Level 3, Position 1
+32. Education Policy Journal (Journal) - ISSN 1000-0032 - Shelf 2, Level 3, Position 2
+33. Garden Life Magazine (Magazine) - ISSN 1000-0033 - Shelf 2, Level 3, Position 3
+34. Cloud Computing Primer (Book) - ISBN 9781-0807 - Shelf 2, Level 3, Position 4
+35. Statistics for Managers (Book) - ISBN 9781-0808 - Shelf 2, Level 3, Position 5
+36. مجلة الأطفال والقراءة (Magazine) - ISSN 1000-0036 - Shelf 2, Level 4, Position 1
+37. Renewable Energy Journal (Journal) - ISSN 1000-0037 - Shelf 2, Level 4, Position 2
+38. Classic Drama Collection (Book) - ISBN 9781-0809 - Shelf 2, Level 4, Position 3
+39. City Culture Magazine (Magazine) - ISSN 1000-0039 - Shelf 2, Level 4, Position 4
+40. Practical Project Management (Book) - ISBN 9781-0810 - Shelf 2, Level 4, Position 5
+41. Arabic Grammar Essentials (Book) - ISBN 9781-0811 - Shelf 3, Level 1, Position 1
+42. مجلة التقنية اليومية (Magazine) - ISSN 1000-0042 - Shelf 3, Level 1, Position 2
+43. Healthcare Systems Journal (Journal) - ISSN 1000-0043 - Shelf 3, Level 1, Position 3
+44. Marine Biology Notes (Book) - ISBN 9781-0812 - Shelf 3, Level 1, Position 4
+45. Food Science Review (Journal) - ISSN 1000-0045 - Shelf 3, Level 1, Position 5
+46. Desert Travel Guide (Book) - ISBN 9781-0813 - Shelf 3, Level 2, Position 1
+47. مجلة التراث العربي (Magazine) - ISSN 1000-0047 - Shelf 3, Level 2, Position 2
+48. Language Teaching Journal (Journal) - ISSN 1000-0048 - Shelf 3, Level 2, Position 3
+49. Small Business Accounting (Book) - ISBN 9781-0814 - Shelf 3, Level 2, Position 4
+50. Home Design Magazine (Magazine) - ISSN 1000-0050 - Shelf 3, Level 2, Position 5
+51. Machine Learning Notes (Book) - ISBN 9781-0815 - Shelf 3, Level 3, Position 1
+52. مجلة الصحة والأسرة (Magazine) - ISSN 1000-0052 - Shelf 3, Level 3, Position 2
+53. Sociology Research Journal (Journal) - ISSN 1000-0053 - Shelf 3, Level 3, Position 3
+54. Beginner Spanish Reader (Book) - ISBN 9781-0816 - Shelf 3, Level 3, Position 4
+55. Photography Monthly (Magazine) - ISSN 1000-0055 - Shelf 3, Level 3, Position 5
+56. مبادئ علم النفس (Book) - ISBN 9781-0817 - Shelf 3, Level 4, Position 1
+57. Legal Studies Journal (Journal) - ISSN 1000-0057 - Shelf 3, Level 4, Position 2
+58. Sports Life Magazine (Magazine) - ISSN 1000-0058 - Shelf 3, Level 4, Position 3
+59. Ethics in Technology (Book) - ISBN 9781-0818 - Shelf 3, Level 4, Position 4
+60. Modern Finance Basics (Book) - ISBN 9781-0819 - Shelf 3, Level 4, Position 5
+61. مجلة الفنون الجميلة (Magazine) - ISSN 1000-0061 - Shelf 4, Level 1, Position 1
+62. Environmental Policy Journal (Journal) - ISSN 1000-0062 - Shelf 4, Level 1, Position 2
+63. Astronomy for Beginners (Book) - ISBN 9781-0820 - Shelf 4, Level 1, Position 3
+64. Public Health Review (Journal) - ISSN 1000-0064 - Shelf 4, Level 1, Position 4
+65. Weekend Cooking Magazine (Magazine) - ISSN 1000-0065 - Shelf 4, Level 1, Position 5
+66. القصص الشعبية العربية (Book) - ISBN 9781-0821 - Shelf 4, Level 2, Position 1
+67. Operations Management Journal (Journal) - ISSN 1000-0067 - Shelf 4, Level 2, Position 2
+68. Craft Ideas Magazine (Magazine) - ISSN 1000-0068 - Shelf 4, Level 2, Position 3
+69. Network Administration Guide (Book) - ISBN 9781-0822 - Shelf 4, Level 2, Position 4
+70. Comparative Literature Journal (Journal) - ISSN 1000-0070 - Shelf 4, Level 2, Position 5
+71. Local History of Libraries (Book) - ISBN 9781-0823 - Shelf 4, Level 3, Position 1
+72. مجلة رواد الأعمال (Magazine) - ISSN 1000-0072 - Shelf 4, Level 3, Position 2
+73. Political Science Review (Journal) - ISSN 1000-0073 - Shelf 4, Level 3, Position 3
+74. Practical Web Design (Book) - ISBN 9781-0824 - Shelf 4, Level 3, Position 4
+75. Science Classroom Magazine (Magazine) - ISSN 1000-0075 - Shelf 4, Level 3, Position 5
+76. أساسيات قواعد البيانات (Book) - ISBN 9781-0825 - Shelf 4, Level 4, Position 1
+77. Digital Preservation Journal (Journal) - ISSN 1000-0077 - Shelf 4, Level 4, Position 2
+78. Family Reading Magazine (Magazine) - ISSN 1000-0078 - Shelf 4, Level 4, Position 3
+79. Office Productivity Tips (Book) - ISBN 9781-0826 - Shelf 4, Level 4, Position 4
+80. Library Services Review (Journal) - ISSN 1000-0080 - Shelf 4, Level 4, Position 5
+81. مجلة الذكاء الاصطناعي (Magazine) - ISSN 1000-0081 - Shelf 5, Level 1, Position 1
+82. Data Governance Journal (Journal) - ISSN 1000-0082 - Shelf 5, Level 1, Position 2
+83. Creative Cooking Basics (Book) - ISBN 9781-0827 - Shelf 5, Level 1, Position 3
+84. Teaching With Technology (Book) - ISBN 9781-0828 - Shelf 5, Level 1, Position 4
+85. Cultural Heritage Review (Journal) - ISSN 1000-0085 - Shelf 5, Level 1, Position 5
+86. مجلة السفر والسياحة (Magazine) - ISSN 1000-0086 - Shelf 5, Level 2, Position 1
+87. Introductory Chemistry (Book) - ISBN 9781-0829 - Shelf 5, Level 2, Position 2
+88. Library Automation Journal (Journal) - ISSN 1000-0088 - Shelf 5, Level 2, Position 3
+89. Personal Finance Magazine (Magazine) - ISSN 1000-0089 - Shelf 5, Level 2, Position 4
+90. Effective Communication Skills (Book) - ISBN 9781-0830 - Shelf 5, Level 2, Position 5
+91. تعلم الإنجليزية بسهولة (Book) - ISBN 9781-0831 - Shelf 5, Level 3, Position 1
+92. Journal of Smart Libraries (Journal) - ISSN 1000-0092 - Shelf 5, Level 3, Position 2
+93. Reader Life Magazine (Magazine) - ISSN 1000-0093 - Shelf 5, Level 3, Position 3
+94. Introduction to Philosophy (Book) - ISBN 9781-0832 - Shelf 5, Level 3, Position 4
+95. Artificial Intelligence Ethics Journal (Journal) - ISSN 1000-0095 - Shelf 5, Level 3, Position 5
+96. مجلة القراءة الذكية (Magazine) - ISSN 1000-0096 - Shelf 5, Level 4, Position 1
+97. Beginner Data Visualization (Book) - ISBN 9781-0833 - Shelf 5, Level 4, Position 2
+98. Journal of Public Libraries (Journal) - ISSN 1000-0098 - Shelf 5, Level 4, Position 3
+99. Modern Reading Habits (Book) - ISBN 9781-0834 - Shelf 5, Level 4, Position 4
+100. Library Innovation Magazine (Magazine) - ISSN 1000-0100 - Shelf 5, Level 4, Position 5

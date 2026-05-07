@@ -81,7 +81,7 @@ export default function Home() {
             <button type="submit">Search</button>
           </div>
           <p id="search-example" className="example-text">
-            Try: Arabic Chef Recipes or 9781000007919
+            Try: Arabic Chef Recipes or 9781-0791
           </p>
         </form>
 
